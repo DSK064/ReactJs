@@ -1,0 +1,83 @@
+.App {
+  background-color:rgb(195, 211, 225);
+  height:auto;
+  width:fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  display:flex;
+  
+}
+
+#name{
+  margin-top: 20px;
+  margin-left: 50px;
+  width: 400px;
+}
+
+
+#left
+{
+  background-color:rgba(0, 48, 143, 0.692);
+  height:720px;
+  width: 300px;
+}
+
+#hr_left{
+  height: 1px;
+  border-radius: 1px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color:rgb(224, 228, 228);
+}
+hr{
+  height: 1px;
+  margin-right: 50px;
+  border-radius: 1px;
+  background-color:rgb(21, 42, 232);
+}
+
+#image{
+  margin-top: 20px;
+  margin-left: 60px;
+  border-radius: 80px;
+  border: 5px solid rgba(26, 214, 235, 0.719);
+}
+
+
+
+#position
+{
+  color: black;
+}
+
+#right
+{
+  color: black;
+  height:800px;
+  width: 400px;
+}
+.h2left
+{
+  color: white;
+  margin-left: 20px;
+  font-size: large;
+
+}
+.h3left{
+  color: white;
+  margin-left: 20px;
+  font-weight: normal;
+  margin: 0px 0px 0px 20px;
+  padding: 0px 0px 0px 0px;
+}
+.h4left{
+  color: white;
+  margin-left: 20px;
+  font-weight: lighter;
+  margin: 0px 0px 0px 20px;
+  padding: 0px 0px 0px 0px;
+  
+}
+
+
+
